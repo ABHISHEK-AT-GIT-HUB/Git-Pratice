@@ -1,2 +1,3 @@
 # Git-Pratice
-pratice
+this is pratice used to pratice </br>
+sample
